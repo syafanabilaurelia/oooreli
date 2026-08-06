@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying **Computer Science / Information Technology**.
+- 🎓 Currently studying ** Informatics **.
 - 💡 Passionate about **Software Development**, focusing on **Backend Systems & API Development**.
 - 🛠️ Actively building projects with **Python** and **Java** using **VS Code**.
 - 🤝 Always open to collaboration on open-source projects or group study!
