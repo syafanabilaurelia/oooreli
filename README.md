@@ -4,7 +4,7 @@ Informatics student exploring software development, algorithms, and practical pr
 
 ### Languages & Tools
 - **Languages:** Python, Java
-- **Tools & Environment:** VS Code, Git, GitHub
+- **Tools & Environment:** VS Code, GitHub
 - **Data & Storage:** JSON, SQL, Database Management
 
 ---
